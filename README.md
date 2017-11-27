@@ -134,5 +134,3 @@ xyplot(five_minute_steps2$steps~five_minute_steps2$interval|five_minute_steps2$d
 ![plot of chunk unnamed-chunk-9](figure/unnamed-chunk-9-1.png)
 
 Comparing the above panel, we can see during weekdays, this person started walking earlier than weekends, probably walking to work. Also on average, this person stepped more during weekdays than weekends, suggesting more activities during weekdays.
-A line I wrote on my local computer
-A line I wrote on my local computer
